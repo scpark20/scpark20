@@ -29,8 +29,8 @@ I am an independent researcher working on diffusion sampling and generative mode
 <td align="center"><a href="https://arxiv.org/abs/2603.13330"><img src="assets/rbf-solver.webp" width="280" alt="RBF-Solver — radial basis interpolation and generated image sequence" /></a></td>
 </tr>
 <tr>
-<td><a href="https://arxiv.org/abs/2603.03973"><strong>Paper</strong></a> · <a href="https://github.com/scpark20/Dual-Solver"><strong>Code</strong></a></td>
-<td><a href="https://arxiv.org/abs/2603.13330"><strong>Paper</strong></a> · <a href="https://github.com/scpark20/RBF-Solver"><strong>Code</strong></a></td>
+<td><a href="https://arxiv.org/abs/2603.03973"><strong>Paper</strong></a></td>
+<td><a href="https://arxiv.org/abs/2603.13330"><strong>Paper</strong></a></td>
 </tr>
 </table>
 
